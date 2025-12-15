@@ -12,7 +12,7 @@ const transforms = {
 			isMultiBlock: true,
 			blocks: ['core/button'],
 			transform: (buttons) =>
-				// Creates the ai-summarize-button block.
+				// Creates the summarizer-button block.
 				createBlock(
 					'ai-summarizer-button/summarize-button',
 					{},

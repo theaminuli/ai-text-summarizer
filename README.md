@@ -30,18 +30,18 @@ AI Summarizer Button is a powerful WordPress block that allows you to create fle
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summarize-button/releases)
-2. Upload the `ai-summarize-button` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summarizer-button/releases)
+2. Upload the `ai-summarizer-button` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/ai-summarize-button.git
+git clone https://github.com/theaminuli/ai-summarizer-button.git
 
 # Navigate to the plugin directory
-cd ai-summarize-button
+cd ai-summarizer-button
 
 # Install dependencies
 npm install
@@ -91,7 +91,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-ai-summarize-button/
+ai-summarizer-button/
 ├── src/
 │   ├── admin/                  # Admin settings
 │   ├── blocks/                 # Block source files
@@ -101,7 +101,8 @@ ai-summarize-button/
 │   │       └── styles/         # Block-specific styles
 │   └── styles/                 # Global styles
 ├── build/                      # Compiled assets
-├── ai-summarize-button.php    # Main plugin file
+│   └── ai-summarizer-button/
+├── ai-summarizer-button.php    # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 └── package.json               # Node dependencies
 ```
@@ -122,8 +123,8 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## Support
 
-- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-summarize-button/)
-- [GitHub Issues](https://github.com/theaminuli/ai-summarize-button/issues)
+- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-summarizer-button/)
+- [GitHub Issues](https://github.com/theaminuli/ai-summarizer-button/issues)
 
 ## Credits
 
