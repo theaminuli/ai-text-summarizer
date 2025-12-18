@@ -1,10 +1,10 @@
-# AI Summary Button
+# AI Text Summarizer
 
 A WordPress block plugin that adds customizable button groups to your site. Built following WordPress Gutenberg standards for seamless integration.
 
 ## Description
 
-AI Summary Button is a powerful WordPress block that allows you to create flexible, customizable button groups for your content. Whether you need horizontal navigation buttons, vertical call-to-action stacks, or sophisticated button layouts with custom styling, this block has you covered.
+AI Text Summarizer is a powerful WordPress block that allows you to create flexible, customizable button groups for your content. Whether you need horizontal navigation buttons, vertical call-to-action stacks, or sophisticated button layouts with custom styling, this block has you covered.
 
 ## Features
 
@@ -24,24 +24,24 @@ AI Summary Button is a powerful WordPress block that allows you to create flexib
 ### From WordPress.org
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "AI Summary Button"
+2. Search for "AI Text Summarizer"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summary-button/releases)
-2. Upload the `ai-summary-button` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-text-summarizer/releases)
+2. Upload the `ai-text-summarizer` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/ai-summary-button.git
+git clone https://github.com/theaminuli/ai-text-summarizer.git
 
 # Navigate to the plugin directory
-cd ai-summary-button
+cd ai-text-summarizer
 
 # Install dependencies
 npm install
@@ -91,7 +91,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-ai-summary-button/
+ai-text-summarizer/
 ├── src/
 │   ├── admin/                  # Admin settings
 │   ├── blocks/                 # Block source files
@@ -102,7 +102,7 @@ ai-summary-button/
 │   └── styles/                 # Global styles
 ├── build/                      # Compiled assets
 │   └── summarize-button/
-├── ai-summary-button.php    # Main plugin file
+├── ai-text-summarizer.php    # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 └── package.json               # Node dependencies
 ```
@@ -123,8 +123,8 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## Support
 
-- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-summary-button/)
-- [GitHub Issues](https://github.com/theaminuli/ai-summary-button/issues)
+- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-text-summarizer/)
+- [GitHub Issues](https://github.com/theaminuli/ai-text-summarizer/issues)
 
 ## Credits
 

@@ -36,17 +36,17 @@ registerBlockType( name, {
 				justifyContent: 'center',
 			},
 		},
-		innerBlocks: [
+			innerBlocks: [
 			{
 				name: 'core/button',
 				attributes: {
-					text: __( 'Summarize with AI', 'ai-summary-button' ),
+					text: __( 'Summarize with AI', 'ai-text-summarizer' ),
 				},
 			},
 			{
 				name: 'core/button',
 				attributes: {
-					text: __( 'Get Summary', 'ai-summary-button' ),
+					text: __( 'Get Summary', 'ai-text-summarizer' ),
 				},
 			},
 		],

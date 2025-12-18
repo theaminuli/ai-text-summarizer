@@ -1,4 +1,4 @@
-=== AI Summary Button ===
+=== AI Text Summarizer ===
 Contributors:      theaminuldev, iqbal1hossain
 Tags:              button, ai, summarize, summary, ai-summarizer-button
 Requires at least: 6.1
@@ -12,7 +12,7 @@ Add AI-powered Summary Buttons to your WordPress site with customizable layouts 
 
 == Description ==
 
-AI Summary Button is a powerful WordPress block that allows you to create customizable button groups for your content. Built following WordPress Gutenberg standards, this block provides a flexible container for organizing multiple buttons with various layout options.
+AI Text Summarizer is a powerful WordPress block that allows you to create customizable button groups for your content. Built following WordPress Gutenberg standards, this block provides a flexible container for organizing multiple buttons with various layout options.
 
 **Key Features:**
 
@@ -38,16 +38,16 @@ AI Summary Button is a powerful WordPress block that allows you to create custom
 **From WordPress Dashboard:**
 
 1. Navigate to Plugins > Add New
-2. Search for "AI Summary Button"
+2. Search for "AI Text Summarizer"
 3. Click "Install Now" and then "Activate"
 4. The block will be available in the block editor under the Design category
 
 **Manual Installation:**
 
 1. Download the plugin zip file
-2. Upload the plugin files to the `/wp-content/plugins/ai-summarizer-button` directory
+2. Upload the plugin files to the `/wp-content/plugins/ai-text-summarizer` directory
 3. Activate the plugin through the 'Plugins' screen in WordPress
-4. Start using the AI Summary Button block in your posts and pages
+4. Start using the AI Text Summarizer block in your posts and pages
 
 
 == Frequently Asked Questions ==
@@ -74,7 +74,7 @@ Yes, the block is designed to work as a container for core/button blocks, ensuri
 
 == Screenshots ==
 
-1. AI Summary Button block in the WordPress editor
+1. AI Text Summarizer block in the WordPress editor
 2. Button layout options and styling controls
 3. Horizontal button layout example
 4. Vertical button layout example
@@ -85,8 +85,8 @@ Yes, the block is designed to work as a container for core/button blocks, ensuri
 ### 0.2.0 - 2025-01-09
 #### Fixed
 
-* Renamed plugin to AI Summary Button for clarity and WordPress.org compliance
-* Updated text domain to ai-summarizer-button
+* Renamed plugin to AI Text Summarizer for clarity and WordPress.org compliance
+* Updated text domain to ai-text-summarizer
 * Improved documentation and descriptions
 
 ### 0.1.0 - 2024-06-15

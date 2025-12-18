@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       AI Summary Button
- * Description:       Add AI-powered Summary Buttons to your WordPress site. Create customizable button groups with flexible layouts and styling options.
+ * Plugin Name:       AI Text Summarizer
+ * Description:       Add AI-powered Text Summarizer Buttons to your WordPress site. Create customizable button groups with flexible layouts and styling options.
  * Version:           0.3.0
  * Requires at least: 6.1
  * Requires PHP:      7.4
@@ -9,9 +9,9 @@
  * Author URI:        https://theaminul.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       ai-summary-button
+ * Text Domain:       ai-text-summarizer
  *
- * @package AISummaryButton
+ * @package AITextSummarizer
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @see https://make.wordpress.org/core/2025/03/13/more-efficient-block-type-registration-in-6-8/
  * @see https://make.wordpress.org/core/2024/10/17/new-block-type-registration-apis-to-improve-performance-in-wordpress-6-7/
  */
-function ai_summary_button_block_init() {
+function ai_text_summarizer_block_init() {
 	/**
 	 * Registers the block(s) metadata from the `blocks-manifest.php` and registers the block type(s)
 	 * based on the registered block metadata.
@@ -57,4 +57,4 @@ function ai_summary_button_block_init() {
 		register_block_type( __DIR__ . "/build/blocks/{$block_type}" );
 	}
 }
-add_action( 'init', 'ai_summary_button_block_init' );
+add_action( 'init', 'ai_text_summarizer_block_init' );
