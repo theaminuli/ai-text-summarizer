@@ -1,4 +1,4 @@
-# AI Text Summarizer
+# AI Summarizer
 
 A WordPress block plugin that adds customizable button groups to your site. Built following WordPress Gutenberg standards for seamless integration.
 
@@ -24,24 +24,24 @@ AI Text Summarizer is a powerful WordPress block that allows you to create flexi
 ### From WordPress.org
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "AI Text Summarizer"
+2. Search for "AI Summarizer"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-text-summarizer/releases)
-2. Upload the `ai-text-summarizer` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summarizer/releases)
+2. Upload the `ai-summarizer` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/ai-text-summarizer.git
+git clone https://github.com/theaminuli/ai-summarizer.git
 
 # Navigate to the plugin directory
-cd ai-text-summarizer
+cd ai-summarizer
 
 # Install dependencies
 npm install
@@ -91,7 +91,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-ai-text-summarizer/
+ai-summarizer/
 ├── src/
 │   ├── admin/                  # Admin settings
 │   ├── blocks/                 # Block source files
@@ -102,7 +102,7 @@ ai-text-summarizer/
 │   └── styles/                 # Global styles
 ├── build/                      # Compiled assets
 │   └── summarize-button/
-├── ai-text-summarizer.php    # Main plugin file
+├── ai-summarizer.php    # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 └── package.json               # Node dependencies
 ```
@@ -123,8 +123,8 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## Support
 
-- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-text-summarizer/)
-- [GitHub Issues](https://github.com/theaminuli/ai-text-summarizer/issues)
+- [WordPress.org Support Forum](https://wordpress.org/support/plugin/ai-summarizer/)
+- [GitHub Issues](https://github.com/theaminuli/ai-summarizer/issues)
 
 ## Credits
 
