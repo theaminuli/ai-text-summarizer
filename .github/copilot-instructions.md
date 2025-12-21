@@ -962,7 +962,7 @@ if ( false === $cached_data ) {
 ### 8.1 Standard Plugin Structure
 
 **General WordPress Plugin Structure Guidelines:**
-For detailed file and folder structure of this project, refer to the [File Structure section in ARCHITECTURE.md](../ARCHITECTURE.md#file-structure).
+For detailed file and folder structure of this project, refer to the [Plugin Structure section in ARCHITECTURE.md](../ARCHITECTURE.md#plugin-structure).
 
 
 ### 8.2 Class File Naming
