@@ -8,11 +8,11 @@ Stable tag:        0.4.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-AI-powered summarizing tool with 6 models (ChatGPT, Claude, Gemini, Grok). Generate TL;DR summaries, key points & condensed content. Free text summarizer plugin for WordPress with auto-insert buttons!
+AI-powered summarizing tool with 6 models (ChatGPT, Claude, Gemini, Grok). Generate TL;DR summaries, key points & condensed content. Text summarizer plugin for WordPress with auto-insert buttons!
 
 == Description ==
 
-**Too Long; Didn't Read (TL;DR)?** The most powerful AI summarization plugin for WordPress! This free summarizing tool generates instant TL;DR summaries using 6 AI models: ChatGPT, Claude, Gemini, Grok, Perplexity, and Google AI. Add customizable "Summarize" and "Get TL;DR" buttons that can be placed anywhere with automatic insertion capabilities.
+**Too Long; Didn't Read (TL;DR)?** The most powerful AI summarization plugin for WordPress! This summarizing tool generates instant TL;DR summaries using 6 AI models: ChatGPT, Claude, Gemini, Grok, Perplexity, and Google AI. Add customizable "Summarize" and "Get TL;DR" buttons that can be placed anywhere with automatic insertion capabilities.
 
 **Perfect for:** Bloggers, content creators, news sites, students, researchers, educators, and anyone who wants to make long-form content more accessible with automatic text summarization.
 
@@ -36,7 +36,7 @@ In today's fast-paced digital world, readers scan before committing time to full
 
 = What is AI Summarizer? =
 
-AI Summarizer is a free WordPress summarizing tool that combines three essential features:
+AI Summarizer is a WordPress summarizing tool that combines three essential features:
 
 1. **AI-Powered Text Summarization** - Generate TL;DR summaries and key points using 6 leading AI models
 2. **Smart Display Options** - Gutenberg blocks, floating action button (FAB), or automatic inline insertion
@@ -46,7 +46,7 @@ AI Summarizer is a free WordPress summarizing tool that combines three essential
 
 = Why Choose AI Summarizer? =
 
-**🤖 6 AI Models** - ChatGPT, Claude, Gemini, Grok, Perplexity & Google AI Model (plus Chrome's built-in Gemini Nano for free, on-device summarization)
+**🤖 6 AI Models** - ChatGPT, Claude, Gemini, Grok, Perplexity & Google AI Model (plus Chrome's built-in Gemini Nano for on-device summarization)
 **🎨 Full Customization** - Place buttons anywhere you want, complete design control
 **⚡ Auto-Insertion** - Automatically add buttons before/after title or content
 **📍 Multiple Display Options** - Gutenberg blocks, floating action button, shortcodes, or auto-insert
@@ -101,7 +101,7 @@ AI Summarizer is a free WordPress summarizing tool that combines three essential
 
 **🔒 Chrome Built-in AI (Gemini Nano)** - On-device privacy-friendly summarization
 
-* Free AI summarization without API keys
+* AI summarization without API keys
 * On-device processing (your data never leaves your browser)
 * Offline capability for summarization
 * No usage costs or rate limits
@@ -203,7 +203,7 @@ Set it once, buttons appear everywhere automatically!
 **📰 News Websites & Journalism** - Offer article summaries before the full story to busy readers
 **🎓 Educational Content & E-Learning** - Give students quick access to lesson summaries and key points
 **💼 Business Reports & Whitepapers** - Executive summary buttons for detailed reports and long-form business content
-**🌐 Content-Heavy Websites** - Improve content consumption, user engagement, and reduce bounce rates with this free text summarizer
+**🌐 Content-Heavy Websites** - Improve content consumption, user engagement, and reduce bounce rates with this text summarizer
 
 **Who Benefits from This Summarizing Tool:**
 * Bloggers who write long-form content
@@ -248,7 +248,7 @@ Set it once, buttons appear everywhere automatically!
 
 = What is TL;DR and why do I need it? =
 
-TL;DR stands for "Too Long; Didn't Read." It's an internet acronym (added to Oxford English Dictionary in 2013) used to provide quick summaries of lengthy content. Adding TL;DR buttons with this free summarizing tool helps readers decide if your content is relevant to them, reducing bounce rates and improving user experience.
+TL;DR stands for "Too Long; Didn't Read." It's an internet acronym (added to Oxford English Dictionary in 2013) used to provide quick summaries of lengthy content. Adding TL;DR buttons with this summarizing tool helps readers decide if your content is relevant to them, reducing bounce rates and improving user experience.
 
 = Is this really a free text summarizer? =
 
@@ -260,7 +260,7 @@ Simply edit any post or page in the Gutenberg editor, click the "+" button, and 
 
 = Does this plugin actually summarize content with AI? =
 
-Yes! The plugin integrates with 6 AI models for automatic summarization. You can also use Chrome's built-in Gemini Nano for free, privacy-friendly on-device summarization. We're continuously expanding AI integration capabilities.
+Yes! The plugin integrates with 6 AI models for automatic summarization. You can also use Chrome's built-in Gemini Nano for privacy-friendly on-device summarization. We're continuously expanding AI integration capabilities.
 
 = What's the difference between this and Grammarly or QuillBot summarizers? =
 
@@ -268,7 +268,7 @@ Unlike Grammarly or QuillBot which are external tools requiring subscriptions, A
 
 = Can I use this summarizing tool without API keys? =
 
-Yes! You can use Chrome's built-in Gemini Nano for completely free, on-device AI summarization without any API keys or costs. This makes it perfect for users who want privacy-friendly summarization without cloud processing.
+Yes! You can use Chrome's built-in Gemini Nano for on-device AI summarization without any API keys or costs. This makes it perfect for users who want privacy-friendly summarization without cloud processing.
 
 = Can I customize the button appearance? =
 

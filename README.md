@@ -16,7 +16,7 @@
 
 ## 🎯 What is AI Summarizer?
 
-The most comprehensive AI summarization plugin for WordPress. This free summarizing tool harnesses the power of 6 leading AI models (ChatGPT, Claude, Gemini, Grok, Perplexity, Google AI) with beautiful, customizable Gutenberg blocks and intelligent display options - all in one lightweight plugin.
+The most comprehensive AI summarization plugin for WordPress. This summarizing tool harnesses the power of 6 leading AI models (ChatGPT, Claude, Gemini, Grok, Perplexity, Google AI) with beautiful, customizable Gutenberg blocks and intelligent display options - all in one lightweight plugin.
 
 **Perfect for:** Content creators, bloggers, news sites, students, researchers, educators, and businesses who want to improve content accessibility and reduce bounce rates with automatic text summarization.
 
@@ -80,7 +80,7 @@ Based on Chrome's Summarizer API and industry standards, the plugin supports:
 
 ### Chrome Built-in AI (Gemini Nano)
 - **Features**: On-device AI summarization (privacy-friendly)
-- **Best For**: Free summarization without API keys
+- **Best For**: Summarization without API keys
 - **Strengths**: Offline capability, no API costs, data stays on your device
 
 ## ✨ Key Features
@@ -181,15 +181,15 @@ Set it once, buttons appear everywhere automatically!
 | 📚 **Research Papers & Academic Articles** | Claude, Perplexity | Auto-insert before title | Academic summaries with citations for students and researchers |
 | 📄 **Technical Documentation** | ChatGPT, Claude | Gutenberg blocks | Key points extraction for developers using this summarizing tool |
 | 📰 **News Articles & Journalism** | Grok, Perplexity | FAB bottom-right | Current events with real-time context for breaking news |
-| 🎯 **Educational Content & E-Learning** | Gemini, ChatGPT | Auto-insert after title | Student-friendly summaries with this free text summarizer |
+| 🎯 **Educational Content & E-Learning** | Gemini, ChatGPT | Auto-insert after title | Student-friendly summaries with this text summarizer |
 | 💼 **Business Reports & Whitepapers** | Claude, ChatGPT | Inline buttons | Executive summaries for stakeholders and decision-makers |
-| 📱 **Content Heavy Sites & Blogs** | All 6 Models + Gemini Nano | All display methods | Maximize accessibility, improve UX with free article summarizer |
+| 📱 **Content Heavy Sites & Blogs** | All 6 Models + Gemini Nano | All display methods | Maximize accessibility, improve UX with article summarizer |
 
 ## 📊 Feature Comparison
 
 ### AI Summarizer vs Competitors
 
-Compare this free WordPress summarizing tool with other popular text summarizers:
+Compare this WordPress summarizing tool with other popular text summarizers:
 
 | Feature | **AI Summarizer** | Grammarly | QuillBot | TLDR This | DeCopy.ai |
 |---------|-------------------|-----------|----------|-----------|-----------|
@@ -207,17 +207,17 @@ Compare this free WordPress summarizing tool with other popular text summarizers
 | **Summary Lengths** | ✅ Short, medium, detailed | ⚠️ Fixed | ✅ Customizable | ⚠️ Limited | ⚠️ Limited |
 | **Multi-language** | ✅ 50+ languages | ✅ Yes | ✅ Yes | ⚠️ Limited | ⚠️ Limited |
 | **Accessibility** | ✅ WCAG 2.1 AA | ⚠️ Basic | ⚠️ Basic | ⚠️ Basic | ⚠️ Basic |
-| **API Costs** | ✅ Optional (or use Gemini Nano free) | 💰 Subscription | 💰 Subscription | 💰 Free tier limited | 💰 Pay per use |
+| **API Costs** | ✅ Optional (or use Gemini Nano) | 💰 Subscription | 💰 Subscription | 💰 Free tier limited | 💰 Pay per use |
 | **Data Privacy** | ✅ On-device option available | ⚠️ Cloud-based | ⚠️ Cloud-based | ⚠️ Cloud-based | ⚠️ Cloud-based |
 
 ### Unique Features - Only in AI Summarizer
 
-✨ **What Makes This the Best Free Summarizing Tool:**
+✨ **What Makes This the Best Summarizing Tool:**
 1. **Most AI Models** - 6 leading AI platforms + Chrome's Gemini Nano in one plugin
 2. **True WordPress Integration** - Native Gutenberg blocks, not external tools
 3. **Triple Display Options** - Blocks + FAB + Auto-insertion (competitors have none)
 4. **Floating Action Button** - Sticky button with 6 position options
-5. **Free On-Device AI** - Privacy-friendly Gemini Nano summarization without API costs
+5. **On-Device AI** - Privacy-friendly Gemini Nano summarization without API costs
 6. **Icons-Only Mode** - Modern, minimalist design with tooltips
 7. **Per-Post Customization** - Different AI models and settings per article
 8. **SEO Flexibility** - Choose `<a>` links or `<button>` elements
