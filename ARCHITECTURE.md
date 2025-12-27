@@ -18,8 +18,8 @@ AI Summarizer is a WordPress Gutenberg block plugin that provides AI-powered sum
 ### Directory Layout
 
 ```
-ai-summarizer/
-├── ai-summarizer.php           # Main plugin file (entry point)
+ai-summary/
+├── ai-summary.php           # Main plugin file (entry point)
 ├── package.json                # NPM dependencies and scripts
 ├── webpack.config.js           # Custom webpack configuration
 ├── LICENSE                     # GPL-2.0-or-later license
@@ -48,7 +48,7 @@ ai-summarizer/
 
 | File | Purpose |
 |------|---------|
-| `ai-summarizer.php` | Plugin initialization, block registration via manifest |
+| `ai-summary.php` | Plugin initialization, block registration via manifest |
 | `block.json` | Block metadata, attributes, supports configuration |
 | `index.js` | Block type registration with React components |
 | `edit.js` | Editor UI component (what users see in Block Editor) |
@@ -108,10 +108,10 @@ ai-summarizer/
 
 ### Project Resources
 
-- [PageFlash GitHub Repository](https://github.com/theaminuli/ai-summarizer)
-- [WordPress.org Plugin Page](https://wordpress.org/plugins/ai-summarizer/)
+- [PageFlash GitHub Repository](https://github.com/theaminuli/ai-summary)
+- [WordPress.org Plugin Page](https://wordpress.org/plugins/ai-summary/)
 - [Issue Tracker](https://github.com/theaminuli/pageflash/issues)
-- [Support Forum](https://wordpress.org/support/plugin/ai-summarizer/)
+- [Support Forum](https://wordpress.org/support/plugin/ai-summary/)
 
 ### Related Documentation
 

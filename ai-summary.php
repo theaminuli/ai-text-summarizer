@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       AI Summarizer - AI-Powered TL;DR & Content Summary Buttons
+ * Plugin Name:       AI Summary - AI-Powered TL;DR & Content Summary Buttons
  * Description:       Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summarize" and "Get TL;DR" buttons to help readers quickly grasp article content.
  * Version:           0.4.0
  * Requires at least: 6.1
@@ -9,9 +9,9 @@
  * Author URI:        https://theaminul.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       ai-summarizer
+ * Text Domain:       ai-summary
  *
- * @package AISummarizer
+ * @package AISummary
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @see https://make.wordpress.org/core/2025/03/13/more-efficient-block-type-registration-in-6-8/
  * @see https://make.wordpress.org/core/2024/10/17/new-block-type-registration-apis-to-improve-performance-in-wordpress-6-7/
  */
-function ai_summarizer_block_init() {
+function ai_summary_block_init() {
 	/**
 	 * Registers the block(s) metadata from the `blocks-manifest.php` and registers the block type(s)
 	 * based on the registered block metadata.
@@ -57,4 +57,4 @@ function ai_summarizer_block_init() {
 		register_block_type( __DIR__ . "/build/blocks/{$block_type}" );
 	}
 }
-add_action( 'init', 'ai_summarizer_block_init' );
+add_action( 'init', 'ai_summary_block_init' );
